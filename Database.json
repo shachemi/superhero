@@ -1,0 +1,21 @@
+[{
+    "name": "Batman",
+    "location": "Gotham",
+    "skills": ["night", "combat"]
+}, {
+    "name": "Daredevil",
+    "location": "New York",
+    "skills": ["combat", "law"]
+}, {
+    "name": "Spiderman",
+    "location": "Queens",
+    "skills": ["agility"]
+}, {
+    "name": "Aquaman",
+    "location": "Atlantis",
+    "skills": ["water"]
+}, {
+    "name": "Flash",
+    "location": "Central City",
+    "skills": ["speed"]
+}]
